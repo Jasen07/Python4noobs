@@ -1,5 +1,5 @@
 
-#PasswordGenerator2000 3.3.1
+#PasswordGenerator2000 3.3.2
 
 #randomly generated password
 #6 to 12 characters long
