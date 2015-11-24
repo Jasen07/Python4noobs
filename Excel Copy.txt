@@ -1,0 +1,33 @@
+#HOW TO RU NOVER PEDESTRIANS
+for every light in lights:
+	if light = rot :
+		Try to stay still
+	elif light = orange :
+		go quickly unless police is near, then slow down
+	elif light = green :
+		run over the pedestrian
+	else :
+		run in circles and cry like a baby
+
+#Excel formel:
+if D3 >= 100 :
+	E4 = 0.22
+elif D3 >= 50 :
+	E4 = 0.26
+elif D3 >= 10 :
+	E4 = 0.29
+else :
+	print ("Eingegebener Betrag ist zu klein!")
+
+#Excel formel + and/or operators
+if D3 = 100 or D3 >100 :
+	sdgebvas
+elif D3 < 100 and (D3 > 50 or D3 = 50) :
+	gveasaa
+elif D3 < 50 and (D3 > 10 or D3 = 10) :
+	sdsdgvsd
+else :
+	print (fck off)
+
+1+1=2
+"txt1" + "txt2" -> "txt1txt2"
