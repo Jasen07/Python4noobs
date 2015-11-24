@@ -38,11 +38,11 @@ if Passwordlength.isdigit():
 
   Choice4 = input ("Just be sure, type 'Yes' one more time\n")
   if Choice4 != "yes" and Choice4 != "Yes" :
-      os._exit(0)
+    os._exit(0)
 
   Choice5 = input ("Okay last time. Type 'Yes' to continue\n")
   if Choice5 != "yes" and Choice5 != "Yes" :
-    os._exot(0)
+    os._exit(0)
 
   Choice6 = input ("Are you aware that you won't be able to go back after this?\n")
   if Choice6 != "yes" and Choice6 != "Yes" :
